@@ -4,4 +4,5 @@ Artificial Inteligence Project
 Problem descriptions in English
 
 ## Final grade:
-?/20
+4/4
+
